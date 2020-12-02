@@ -7,3 +7,4 @@ part1 is to unserstanding the task,data and metric;part2 did some exploraty data
 part3 is to build some baseline that come from others in pulic.
 part4 is to get all the ideas you can get and do experiments find which one works.
 
+my final score:![]https://github.com/zhang-lingyun/kaggle_MOA_Prediction/blob/main/%E6%97%A0%E6%A0%87%E9%A2%98.png
